@@ -1533,7 +1533,7 @@ export default function CollagePoem() {
           <div className="intro-card">
             <div className="intro-brand">
               <h1>诗歌共创实验室</h1>
-              <span className="intro-en">COLLAGE&nbsp;&nbsp;POEMS</span>
+              <span className="intro-en">YOUR&nbsp;&nbsp;POEM</span>
             </div>
             <p className="intro-sub">从散落的字词中，拾起一首诗</p>
             <div className="intro-rule" aria-hidden="true" />
@@ -1616,7 +1616,7 @@ export default function CollagePoem() {
           <header className="paper-header">
             <div className="brand">
               <h1>写下一首诗</h1>
-              <span className="en">Collage Poems</span>
+              <span className="en">Your Poem</span>
             </div>
             <div className="meta">
               <div className="date" id="dateStr">{dateStr}</div>
