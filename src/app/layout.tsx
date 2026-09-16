@@ -18,10 +18,10 @@ const huiwen = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "拼贴一首诗 · 剪报诗笺",
+  title: "写下一首诗",
   description:
     "从散落的字词中，拾起一首诗。点击词汇池拾取词汇，在诗笺上拼贴成句，支持拖拽排序、自录词库与一键导出诗意图片。",
-  keywords: ["拼贴诗", "剪报诗笺", "网页游戏", "现代诗", "创意写作", " Collage Poems"],
+  keywords: ["写下一首诗", "拼贴诗", "网页游戏", "现代诗", "创意写作", "Your Poem"],
   authors: [{ name: "Z.ai Team" }],
   icons: {
     icon: "https://z-cdn.chatglm.cn/z-ai/static/logo.svg",
